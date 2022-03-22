@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam-singh-bct
+- 👋 Hi, I’m Shivam Singh
 - 👀 I’m interested in coding and problem-solving
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web developement projects
